@@ -1,5 +1,7 @@
 module github.com/firefishy/torrent-edit-webseed
 
-go 1.21.3
+go 1.21.4
 
-require github.com/jackpal/bencode-go v1.0.0 // indirect
+toolchain go1.24.6
+
+require github.com/jackpal/bencode-go v1.0.2
