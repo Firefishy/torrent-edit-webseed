@@ -4,4 +4,4 @@ go 1.21.4
 
 toolchain go1.24.6
 
-require github.com/jackpal/bencode-go v1.0.2
+require github.com/jackpal/bencode-go v1.2.0
